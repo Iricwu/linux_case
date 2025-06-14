@@ -1,2 +1,2 @@
-# linux_case
-study linux kernel feature
+# ldd-test
+linux Device driver test code for practise
